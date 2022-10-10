@@ -1,5 +1,6 @@
 ﻿using ExemploFundamentos.Models;
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome="Gabriel";
-pessoa1.Idade=234;
+int valor =  Convert.ToInt32("5");
+Console.WriteLine(valor);
+
+

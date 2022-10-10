@@ -1,6 +1,6 @@
 ﻿namespace ExemploFundamentos.Models
 {
-    public class Pess oa
+    public class Pessoa
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
