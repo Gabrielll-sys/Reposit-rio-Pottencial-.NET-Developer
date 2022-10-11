@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos", "ExemploFundamentos.csproj", "{0F9FE9C7-9E83-4201-B4FB-EE7A6EB9BFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.commom", "ExemploFundamentos.commom\ExemploFundamentos.commom.csproj", "{74D973B6-44A0-4E9F-8974-3FC30B927638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9FE9C7-9E83-4201-B4FB-EE7A6EB9BFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9FE9C7-9E83-4201-B4FB-EE7A6EB9BFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9FE9C7-9E83-4201-B4FB-EE7A6EB9BFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9FE9C7-9E83-4201-B4FB-EE7A6EB9BFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D973B6-44A0-4E9F-8974-3FC30B927638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D973B6-44A0-4E9F-8974-3FC30B927638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D973B6-44A0-4E9F-8974-3FC30B927638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D973B6-44A0-4E9F-8974-3FC30B927638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

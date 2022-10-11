@@ -1,0 +1,16 @@
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Main.exe
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Main.deps.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Main.runtimeconfig.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Main.runtimeconfig.dev.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Main.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\ref\Main.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Main.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.csproj.AssemblyReference.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.AssemblyInfoInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.AssemblyInfo.cs
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.csproj.CoreCompileInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\ref\Main.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.genruntimeconfig.cache

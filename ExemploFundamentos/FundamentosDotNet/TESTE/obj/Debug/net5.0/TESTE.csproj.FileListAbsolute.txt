@@ -1,0 +1,16 @@
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\TESTE.exe
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\TESTE.deps.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\TESTE.runtimeconfig.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\TESTE.runtimeconfig.dev.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\TESTE.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\ref\TESTE.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\bin\Debug\net5.0\TESTE.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.csproj.AssemblyReference.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.AssemblyInfoInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.AssemblyInfo.cs
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.csproj.CoreCompileInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\ref\TESTE.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\TESTE\obj\Debug\net5.0\TESTE.genruntimeconfig.cache

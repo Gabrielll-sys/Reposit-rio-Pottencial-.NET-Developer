@@ -2,13 +2,20 @@
 
 namespace FundamentosDotNet.models
 {
+/// <summary>
+/// Classe de uma calculadora
+/// </summary>
     public class Calculator
     {
         
         
         
         
-        
+        /// <summary>
+        /// Realiza a operação de soma de da calculadora meu parça
+        /// </summary>
+        /// <param name="x"> O primeiro valor</param>
+        /// <param name="y"> O Valor que será somado ao primeiro valor</param>
         public void Somar(int x , int y)
         {
             Console.WriteLine($"A soma entre {x} e {y} é igual {x+y}");
@@ -24,10 +31,16 @@ namespace FundamentosDotNet.models
             Console.WriteLine($"A subtração entre {x} e {y} é igual {x-y}");
 
         }
-        public void Multiplicar(int x , int y)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns>Retorna o valor de x multiplacado por y</returns>
+        public int Multiplicar(int x , int y)
         {
             Console.WriteLine($"A soma entre {x} e {y} é igual {x+y}");
-
+            return x * y;
         }
         public void Divisao(float x , float y)
         {
