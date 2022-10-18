@@ -14,3 +14,5 @@ C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Ma
 C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\ref\Main.dll
 C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.pdb
 C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.genruntimeconfig.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\Main\obj\Debug\net5.0\Main.csproj.CopyComplete

@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Mterial quarto",
+    "Preco": 25.40
+  },
+  {
+    "Id": 2,
+    "Produto": "Mterial sala",
+    "Preco": 253.40
+  }
+]
