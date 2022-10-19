@@ -1,0 +1,16 @@
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\FundamentosDotNet.exe
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\FundamentosDotNet.deps.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\FundamentosDotNet.runtimeconfig.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\FundamentosDotNet.runtimeconfig.dev.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\FundamentosDotNet.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\ref\FundamentosDotNet.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\bin\Debug\net5.0\FundamentosDotNet.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.csproj.AssemblyReference.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.AssemblyInfoInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.AssemblyInfo.cs
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.csproj.CoreCompileInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\ref\FundamentosDotNet.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\FundamentosDotNet\FundamentosDotNet\obj\Debug\net5.0\FundamentosDotNet.genruntimeconfig.cache

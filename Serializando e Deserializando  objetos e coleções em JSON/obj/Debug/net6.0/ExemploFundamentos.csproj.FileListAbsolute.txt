@@ -1,0 +1,15 @@
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\bin\Debug\net6.0\ref\ExemploFundamentos.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+C:\Reposit-rio-Pottencial-.NET-Developer\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
