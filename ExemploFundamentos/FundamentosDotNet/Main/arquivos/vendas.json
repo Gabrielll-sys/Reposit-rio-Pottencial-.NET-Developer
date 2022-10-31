@@ -3,12 +3,14 @@
     "Id": 1,
     "Nome_Produto": "Mterial quarto",
     "Preco": 25.40,
-    "DataVenda": "2022-10-18T17:08:22.9269968-03:00"
+    "DataVenda": "2022-10-18T17:08:22.9269968-03:00",
+    "Desconto": null
   },
   {
     "Id": 2,
     "Nome_Produto": "Mterial sala",
     "Preco": 253.40,
-    "DataVenda": "2022-10-18T17:08:22.9269968-03:00"
+    "DataVenda": "2022-10-18T17:08:22.9269968-03:00",
+    "Desconto": 10
   }
 ]
